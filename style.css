@@ -1,0 +1,108 @@
+
+
+body{
+    background-color: darkslategrey;
+    width: 900px;
+    padding-top: 10px;
+    width: 800px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+    
+}
+
+.Spring{
+    background-color: rgb(254, 240, 158);
+    width: 800px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.Summer{
+    background-color: rgb(151,227,251);
+    
+    
+}
+
+.Autumn{
+    background-color: #9C2706;
+    width: 800px;
+   
+    
+}
+
+.Winter{
+    background-color: steelblue;
+}
+
+.Summer,.Winter,.Spring,.Autumn{
+    font-family: 'Montserrat', sans-serif;
+    width: 800px;
+}
+
+.h2{
+    font-family: 'Paytone One', sans-serif;
+    letter-spacing: 2px;
+    
+}
+
+h1{
+    font-family: 'Paytone One', sans-serif;
+    letter-spacing: 2px;
+}
+
+.top{
+    font-family: 'Montserrat', sans-serif;
+    width: auto;
+    text-align:center;
+     
+}
+
+div{
+    background-color: white;
+    padding-bottom: 50px;
+}
+
+a:hover{
+    text-decoration-color: yellow;
+}
+
+.a{
+    color: yellow; 
+    text-decoration-line: none;
+}
+
+hr{
+    width: 700px;
+}
+
+.sp{
+    border-radius: 25px;
+    border:  transparent ;
+    padding: 20px; 
+    width: 200px;
+    height: 800px;
+    height: 200px;
+    
+}
+
+p{
+    text-align: center;
+}
+
+.head{
+    font-family: 'Paytone One', sans-serif;\
+    letter-spacing: 5px;
+   
+}
+
+.head2{
+    background-attachment: fixed;
+    font-family: 'Paytone One', sans-serif;
+    color: white;
+    letter-spacing: 3px;
+    
+}
